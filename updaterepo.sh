@@ -177,14 +177,15 @@ install_brew_packages() {
 }
 
 prepare_apt_ftparchive() {
-    if ! command -v apt-ftparchive &> /dev/null; then
-        wget -q -nc https://apt.procurs.us/apt-ftparchive
-        sudo chmod 755 ./apt-ftparchive
-    fi
-
-    if [[ "$OSTYPE" == "darwin"* ]]; then
-        mkdir -p /usr/local/etc/apt/apt.conf.d/
-    fi
+#    if ! command -v apt-ftparchive &> /dev/null; then
+#        wget -q -nc https://apt.procurs.us/apt-ftparchive
+#        sudo chmod 755 ./apt-ftparchive
+#    fi
+#
+#    if [[ "$OSTYPE" == "darwin"* ]]; then
+#        mkdir -p /usr/local/etc/apt/apt.conf.d/
+#    fi
+echo "no"
 }
 
 main() {

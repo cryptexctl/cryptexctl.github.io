@@ -1,0 +1,17 @@
+Package: com.lain.amoleddnevink
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Platon
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.lain.amoleddnevink_1.2.0_iphoneos-arm.deb
+Size: 10416
+MD5sum: eb9536d2ae05126a17ca66b613c0f647
+SHA1: ba65d3906f7b4f52ff4ba0f58b12521ae0e5e932
+SHA256: 8a95142b75b513a36b0bc4698efa1c269000fc54dfdd9173199c9f477b310831
+SHA512: 39fa3cdb3e493471961778129dc63a3b100d0c4f7dc2f299afad8281a76d7990384d6cc9cc6022eb42d863178fe47aab61a56153e5a2f20f4c1a3514f0446f28
+Description: Amoled theme for Dnevnik
+Name: AmoledDnevnik
+Author: Platon
+
