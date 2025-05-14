@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>1.2.0</version>
+		<change>Добавил настройки через нажатие на профиль семь раз</change>
+	</changes>
+	<changes>
+		<version>1.0.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

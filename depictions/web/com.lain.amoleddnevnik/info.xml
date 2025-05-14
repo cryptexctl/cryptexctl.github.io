@@ -1,0 +1,23 @@
+<package>
+	<id>com.lain.amoleddnevnik</id>
+	<name>AmoledDnevnik</name>
+	<version>1.2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Амолед тема для школьного портала "Моя школа".</shortDescription>
+	<descriptionlist>
+		<description>Нужно что-то большее?</description>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa-brands fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
