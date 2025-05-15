@@ -54,14 +54,14 @@ Architecture: iphoneos-arm
 Version: 1.2.0
 Section: Tweaks
 Maintainer: Platon
-Installed-Size: 188
+Installed-Size: 76
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/com.lain.amoleddnevink_1.2.0_iphoneos-arm.deb
-Size: 10416
-MD5sum: eb9536d2ae05126a17ca66b613c0f647
-SHA1: ba65d3906f7b4f52ff4ba0f58b12521ae0e5e932
-SHA256: 8a95142b75b513a36b0bc4698efa1c269000fc54dfdd9173199c9f477b310831
-SHA512: 39fa3cdb3e493471961778129dc63a3b100d0c4f7dc2f299afad8281a76d7990384d6cc9cc6022eb42d863178fe47aab61a56153e5a2f20f4c1a3514f0446f28
+Size: 7822
+MD5sum: deb0ce0f3a202bcb01982dc03349a571
+SHA1: 99f997d4dba3ef76dfe9a447899360f371ae3251
+SHA256: cb93842030579982c484bfa02b921fe8e6d9db941d275c10fc0f0216b90c24f2
+SHA512: 34d8ab27b1e55dbddfba61f2bc701c04ab7388a85be05ee06766b3da30ae20c988de274d25c2bf008c284b0073fff72bc76f935559189fa000dba787d62257f2
 Description: Amoled theme for Dnevnik
 Name: AmoledDnevnik
 Author: Platon
@@ -71,14 +71,14 @@ Architecture: iphoneos-arm64
 Version: 1.2.0
 Section: Tweaks
 Maintainer: Platon
-Installed-Size: 76
+Installed-Size: 92
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/com.lain.amoleddnevink_1.2.0_iphoneos-arm64.deb
-Size: 7952
-MD5sum: 6976871ddeeb105ad4e7d96d2dadb617
-SHA1: 524bef8ee27b4d8eb40cc9451853ddbf49bb1c18
-SHA256: a262fc155600a9c62672eef13de59338c4bb48c3137bc14b1f3d0f2ad4d96a48
-SHA512: 8026b62b26be13a9e731bfbb885308b8af4ab8c4978fb5f75d3824e366dba1f189e57a14b21b205e03a45b91927abef259fc11d2100b23830420884c226a1f13
+Size: 7942
+MD5sum: 5296ffc98fb5f7795746edb868e507bd
+SHA1: f0f5350401fdb81264dd080f688ebbe29c7d3919
+SHA256: d16cc1364dd92fb7a16b7e5801088102c68bb9f1dcad524b84b57c34a72cdf71
+SHA512: 0d48bb4d5b2a77378ef6188dddb83e54d09a18d58a60b2796b1fccd4adb39fd2474e47a65e70970ebd57bb431fb4eb72f7d6b4936aa9b34cc2e6371676dea50a
 Description: Amoled theme for Dnevnik
 Name: AmoledDnevnik
 Author: Platon
@@ -88,14 +88,14 @@ Architecture: iphoneos-arm64e
 Version: 1.2.0
 Section: Tweaks
 Maintainer: Platon
-Installed-Size: 92
+Installed-Size: 76
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/com.lain.amoleddnevink_1.2.0_iphoneos-arm64e.deb
-Size: 8100
-MD5sum: 2249f5ed6f050011132aab13bd9e5bd2
-SHA1: acc093951dd0ea04eb2be3b5c3c139e2db0712b1
-SHA256: 72c8dea446441b5122595458cc1795337cd8644ed47c33c92aa46803076d4f79
-SHA512: 8a6f77947ad408f96ad261b1aecfde945587697f985a7eb4733382f1f52535d4178ba93b16ba9db5aee55fb929ae446e96f32c12e9430897dbfb8def4c78c8b2
+Size: 7834
+MD5sum: 6895d1ff927f1c355782cd9604337839
+SHA1: 570acfc0324c8cd67bc4014de79b0ec1cb264d19
+SHA256: 9511e1e4fbfbf2c2866bdfad388b6b21507462a734e830e7d2fe4e8884ac2af6
+SHA512: 31473b2eed2e7d652191724e911c37351a7fac553b1f908b2265d85ef656d5e3ca417d04455d756a8e5d0ac205ea10ad20420374ba3a7c90cabc5a17b8053538
 Description: Amoled theme for Dnevnik
 Name: AmoledDnevnik
 Author: Platon
