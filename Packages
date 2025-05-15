@@ -49,6 +49,40 @@ Description: Bypass jailbreak detection in DNEVNIK MESH.
 Name: mesh_hk
 Author: untether
 
+Package: com.hopeless.autoflex
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: hopeless
+Installed-Size: 1388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.hopeless.autoflex_0.0.1_iphoneos-arm.deb
+Size: 413510
+MD5sum: 409d7f710d146f6feb5b781d77113ff5
+SHA1: f89d95dfc79aa4acfff76c7dee597a00d48afe86
+SHA256: 2cd82c0a3a333d7da88c242490f01b649f70d4e80d7978c1009b245eb1d2f294
+SHA512: 42ceef4519f16a4f37f709c89a6470cf34b567a83bcc59f140b883a918fa9f3f3380426481e383b499c1c7c4d08a4f1ada262bed235e850e6785d49fb73ad9e3
+Description: An awesome MobileSubstrate tweak!
+Name: autoflex
+Author: hopeless
+
+Package: com.hopeless.autoflex
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: hopeless
+Installed-Size: 1388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.hopeless.autoflex_0.0.1_iphoneos-arm64e.deb
+Size: 413682
+MD5sum: 87b89d4ab5d0a48e3a22158312d96180
+SHA1: 361324b18d9b86963c5b7f69f93bdd70a71ad1fb
+SHA256: e5037b02ffe2c5b288d0b818e92924035db81e62742a345e14314df003ddc953
+SHA512: a470171f10b41baa0335e40996875059e5595ff9f19a6d5ae353bf704265873cdf729883b51901a590c4da363390df7534969c6426b4f25219ca7f71c7ed3ddb
+Description: An awesome MobileSubstrate tweak!
+Name: autoflex
+Author: hopeless
+
 Package: com.lain.amoleddnevink
 Architecture: iphoneos-arm
 Version: 1.2.0

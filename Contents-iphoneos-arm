@@ -1,11 +1,13 @@
-.							    c.ghh.meshhk,com.lain.amoleddnevink
+.							    c.ghh.meshhk,com.lain.amoleddnevink,com.hopeless.autoflex
 AmoledDnevnik.dylib					    com.lain.amoleddnevink
 AmoledDnevnik.plist					    com.lain.amoleddnevink
-DynamicLibraries					    c.ghh.meshhk,com.lain.amoleddnevink
-Library							    c.ghh.meshhk,com.lain.amoleddnevink
+DynamicLibraries					    c.ghh.meshhk,com.lain.amoleddnevink,com.hopeless.autoflex
+Library							    c.ghh.meshhk,com.lain.amoleddnevink,com.hopeless.autoflex
 Library/MobileSubstrate/DynamicLibraries/meshhk.dylib	    c.ghh.meshhk
 Library/MobileSubstrate/DynamicLibraries/meshhk.plist	    c.ghh.meshhk
-MobileSubstrate						    c.ghh.meshhk,com.lain.amoleddnevink
+MobileSubstrate						    c.ghh.meshhk,com.lain.amoleddnevink,com.hopeless.autoflex
+autoflex.dylib						    com.hopeless.autoflex
+autoflex.plist						    com.hopeless.autoflex
 jb							    com.lain.amoleddnevink
 meshhk.dylib						    c.ghh.meshhk
 meshhk.plist						    c.ghh.meshhk
