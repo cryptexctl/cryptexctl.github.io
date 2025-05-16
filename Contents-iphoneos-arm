@@ -8,7 +8,7 @@ Library/MobileSubstrate/DynamicLibraries/meshhk.plist	    c.ghh.meshhk
 MobileSubstrate						    c.ghh.meshhk,com.lain.amoleddnevink,com.hopeless.autoflex
 autoflex.dylib						    com.hopeless.autoflex
 autoflex.plist						    com.hopeless.autoflex
-jb							    com.lain.amoleddnevink
+jb							    com.hopeless.autoflex,com.lain.amoleddnevink
 meshhk.dylib						    c.ghh.meshhk
 meshhk.plist						    c.ghh.meshhk
-var							    com.lain.amoleddnevink
+var							    com.hopeless.autoflex,com.lain.amoleddnevink

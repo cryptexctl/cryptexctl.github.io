@@ -67,6 +67,23 @@ Name: autoflex
 Author: hopeless
 
 Package: com.hopeless.autoflex
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: hopeless
+Installed-Size: 1388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.hopeless.autoflex_0.0.1_iphoneos-arm64.deb
+Size: 413550
+MD5sum: 3adfcbeea1f5e087538bb0abfd0eb674
+SHA1: 0b29ed00ca11dad54bbaf90137c0e1181c3dd537
+SHA256: 5218a327b3de4dab073c9bff49b7c9bca3dfb469a6c2355cbba21d0dc5b24387
+SHA512: 93f9b2ccbfe645739686318703128e2375625bf01fcc09c7fbf858592c58ecfd221e8894e7e632084c46e1c72c80d9c6914c4a2199b17a4cbd0445d58056a3ee
+Description: An awesome MobileSubstrate tweak!
+Name: autoflex
+Author: hopeless
+
+Package: com.hopeless.autoflex
 Architecture: iphoneos-arm64e
 Version: 0.0.1
 Section: Tweaks
