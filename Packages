@@ -49,6 +49,57 @@ Description: Bypass jailbreak detection in DNEVNIK MESH.
 Name: mesh_hk
 Author: untether
 
+Package: com.hopeless.autoflex.mesh
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: hopeless
+Installed-Size: 1388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.hopeless.autoflex.mesh_0.0.1_iphoneos-arm.deb
+Size: 413486
+MD5sum: 2971afd09d767cc674486563bf95b26f
+SHA1: acb9456db3358008e3b145fcf79534b521a2c8e1
+SHA256: 8bcbe793ddb1db260565ed0ab7d807dd89ab1992829047093ecc80985899ec7f
+SHA512: 83970796c782935d70c42c3e0a871f9b4ef27aa043832a6b63a4fd4e3cff9c97a81bb4909d3e7ed84501d398be777fae3a1fca50625795ad16ee326580450cf9
+Description: FLEX injection for MESH
+Name: Mesh-autoflex
+Author: hopeless
+
+Package: com.hopeless.autoflex.mesh
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: hopeless
+Installed-Size: 1388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.hopeless.autoflex.mesh_0.0.1_iphoneos-arm64.deb
+Size: 413578
+MD5sum: 8d063b3557bd168e02260ca0328c715e
+SHA1: 563dc8e3171d028c1d0b044655db551fedb8d5ef
+SHA256: 80f91fa9c1aeb8ece41b024174da163225ce8a79190b232ab0b2c3bf029a141c
+SHA512: 0572f9ddea1c67568488df85629f4223a361836aab3e7001b87d6674890cd49420efc93be0fc3f9bb36d9f8ac29eee9faa7508955fd657a453eed3935dceca5f
+Description: FLEX injection for MESH
+Name: Mesh-autoflex
+Author: hopeless
+
+Package: com.hopeless.autoflex.mesh
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: hopeless
+Installed-Size: 1388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.hopeless.autoflex.mesh_0.0.1_iphoneos-arm64e.deb
+Size: 413434
+MD5sum: 5df3815cd1550960a5b54232e4c86a5b
+SHA1: c80647ea53f3bf4d5871be779f31c433fb75999d
+SHA256: dc52cabec9c77bb7a00c053bf5c5090cc84d98acd8f75509d408aafd0ac78ed3
+SHA512: 3317a6c55026615793eb6c506a0e220dc69c7e7a662cdd94106598fd893e8d41705058a9ed6580a072c2368f93fe458660910fa98729cc9725f112a0a06784a7
+Description: FLEX injection for MESH
+Name: Mesh-autoflex
+Author: hopeless
+
 Package: com.hopeless.autoflex
 Architecture: iphoneos-arm
 Version: 0.0.1
