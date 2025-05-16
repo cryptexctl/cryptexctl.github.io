@@ -107,7 +107,7 @@ Section: Tweaks
 Maintainer: Platon
 Installed-Size: 76
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/com.lain.amoleddnevink_1.2.0_iphoneos-arm.deb
+Filename: ./debians/com.lain.amoleddnevnik_1.2.0_iphoneos-arm.deb
 Size: 7822
 MD5sum: deb0ce0f3a202bcb01982dc03349a571
 SHA1: 99f997d4dba3ef76dfe9a447899360f371ae3251
@@ -124,7 +124,7 @@ Section: Tweaks
 Maintainer: Platon
 Installed-Size: 92
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/com.lain.amoleddnevink_1.2.0_iphoneos-arm64.deb
+Filename: ./debians/com.lain.amoleddnevnik_1.2.0_iphoneos-arm64.deb
 Size: 7942
 MD5sum: 5296ffc98fb5f7795746edb868e507bd
 SHA1: f0f5350401fdb81264dd080f688ebbe29c7d3919
@@ -141,7 +141,7 @@ Section: Tweaks
 Maintainer: Platon
 Installed-Size: 76
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/com.lain.amoleddnevink_1.2.0_iphoneos-arm64e.deb
+Filename: ./debians/com.lain.amoleddnevnik_1.2.0_iphoneos-arm64e.deb
 Size: 7834
 MD5sum: 6895d1ff927f1c355782cd9604337839
 SHA1: 570acfc0324c8cd67bc4014de79b0ec1cb264d19
