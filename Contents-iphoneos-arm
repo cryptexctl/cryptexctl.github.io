@@ -1,14 +1,23 @@
-.							    c.ghh.meshhk,com.lain.amoleddnevnik,com.hopeless.autoflex,com.hopeless.autoflex.mesh
+.							    c.ghh.meshhk,wiki.qaq.colorfulwallpaperx.schemes.desserts,com.lain.amoleddnevnik,com.hopeless.autoflex,com.hopeless.autoflex.mesh
 AmoledDnevnik.dylib					    com.lain.amoleddnevnik
 AmoledDnevnik.plist					    com.lain.amoleddnevnik
+Cappuccino.plist					    wiki.qaq.colorfulwallpaperx.schemes.desserts
+ColorfulWallpaperX					    wiki.qaq.colorfulwallpaperx.schemes.desserts
 DynamicLibraries					    c.ghh.meshhk,com.lain.amoleddnevnik,com.hopeless.autoflex,com.hopeless.autoflex.mesh
-Library							    c.ghh.meshhk,com.lain.amoleddnevnik,com.hopeless.autoflex,com.hopeless.autoflex.mesh
+Ice Cream.plist						    wiki.qaq.colorfulwallpaperx.schemes.desserts
+Library							    c.ghh.meshhk,wiki.qaq.colorfulwallpaperx.schemes.desserts,com.lain.amoleddnevnik,com.hopeless.autoflex,com.hopeless.autoflex.mesh
 Library/MobileSubstrate/DynamicLibraries/meshhk.dylib	    c.ghh.meshhk
 Library/MobileSubstrate/DynamicLibraries/meshhk.plist	    c.ghh.meshhk
+Matcha Latte.plist					    wiki.qaq.colorfulwallpaperx.schemes.desserts
+Mint.plist						    wiki.qaq.colorfulwallpaperx.schemes.desserts
 MobileSubstrate						    c.ghh.meshhk,com.lain.amoleddnevnik,com.hopeless.autoflex,com.hopeless.autoflex.mesh
+Presets							    wiki.qaq.colorfulwallpaperx.schemes.desserts
+Sakura.plist						    wiki.qaq.colorfulwallpaperx.schemes.desserts
+Sparkly Green.plist					    wiki.qaq.colorfulwallpaperx.schemes.desserts
 autoflex.dylib						    com.hopeless.autoflex.mesh,com.hopeless.autoflex
 autoflex.plist						    com.hopeless.autoflex.mesh,com.hopeless.autoflex
 jb							    com.hopeless.autoflex.mesh,com.lain.amoleddnevnik,com.hopeless.autoflex
 meshhk.dylib						    c.ghh.meshhk
 meshhk.plist						    c.ghh.meshhk
-var							    com.hopeless.autoflex.mesh,com.lain.amoleddnevnik,com.hopeless.autoflex
+mobile							    wiki.qaq.colorfulwallpaperx.schemes.desserts
+var							    com.hopeless.autoflex.mesh,wiki.qaq.colorfulwallpaperx.schemes.desserts,com.lain.amoleddnevnik,com.hopeless.autoflex

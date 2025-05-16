@@ -253,3 +253,54 @@ Description: Amoled theme for Dnevnik
 Name: AmoledDnevnik
 Author: Platon
 
+Package: wiki.qaq.colorfulwallpaperx.schemes.desserts
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Themes
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 24
+Depends: wiki.qaq.colorfulwallpaperx (>= 3.0)
+Filename: ./debians/wiki.qaq.colorfulwallpaperx.schemes.desserts_1.0-1+debug_iphoneos-arm.deb
+Size: 1340
+MD5sum: 4907b302ed3957e0731cfacd7c1b0bfc
+SHA1: 4d7a0f09e5c2d6a51380538210c3ea5225cd3e58
+SHA256: b1797b6256bbe03f253786e4c5b052c12c62cf74ebf94363bce1fa4f4a459ddd
+SHA512: 21f3848f21ff2ff4344a9b1738c704e8eab5ed3035ac2a16c263208fb107d76ca3e9100c30ae829363c93c66c91d00212fabdde769cb1d40d4e9c13250e99985
+Description: Dynamic wallpaper with colorful effects.
+Name: ColorfulWallpaperX - Desserts
+Author: Lessica <82flex@gmail.com>
+
+Package: wiki.qaq.colorfulwallpaperx.schemes.desserts
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 24
+Depends: wiki.qaq.colorfulwallpaperx (>= 3.0)
+Filename: ./debians/wiki.qaq.colorfulwallpaperx.schemes.desserts_1.0_iphoneos-arm64.deb
+Size: 1208
+MD5sum: 653e771c271871e0576d1adbf81d1ea5
+SHA1: 8e334625bf55046abd55effa73c65e280acd7583
+SHA256: e6fe74ac4f6e1eeb9481ba63e2c1ab48df0e57c6b34f2f50e1247e531c253ed3
+SHA512: 5a953bdbd9be36ee1d85084a22dd583da38a9fc624bbeaf0ec6267be7237abe29f38e5470229be2029402053236a1499098c1570cfb0e46bbf00b63a54d4b519
+Description: Dynamic wallpaper with colorful effects.
+Name: ColorfulWallpaperX - Desserts
+Author: Lessica <82flex@gmail.com>
+
+Package: wiki.qaq.colorfulwallpaperx.schemes.desserts
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 24
+Depends: wiki.qaq.colorfulwallpaperx (>= 3.0)
+Filename: ./debians/wiki.qaq.colorfulwallpaperx.schemes.desserts_1.0_iphoneos-arm64e.deb
+Size: 1208
+MD5sum: 4a23eb56f8d4f8cb0ea01013c7d3268a
+SHA1: fe073b8076f68290fea3b2ec0efe8b5356aa57a4
+SHA256: 5180928fb3c53184865da7a160f210553ce5c14b7fcd9c56c07f1f1f7ca15f26
+SHA512: ce20c113de5091af69330979a3b770165f16a792aa70136b81715576f8d0fb993d0765b37401455aca1090b20c9f9fbcb0a2098d886c44d08a26902f6f6d3c47
+Description: Dynamic wallpaper with colorful effects.
+Name: ColorfulWallpaperX - Desserts
+Author: Lessica <82flex@gmail.com>
+
