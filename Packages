@@ -253,6 +253,57 @@ Description: Amoled theme for Dnevnik
 Name: AmoledDnevnik
 Author: Platon
 
+Package: com.lain.amoleddnevnik
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Platon
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.lain.amoleddnevnik_1.2.2_iphoneos-arm.deb
+Size: 10420
+MD5sum: 92a4b23c02a21945256df639dc6672b4
+SHA1: 0b6714a1fcf69dd12404005c3113d32a3ef884b6
+SHA256: 893ee72215b9a3f4ea8924573d2f7c162115db3ced9e8a0764ec0ebc78bc76fa
+SHA512: a3734fd440525e19e112e3b6c60ad23f946f89d86593d08adcb007c2af4c8d171ee934f900d06c3e7d976ccfca35efcada5686f3c5fae3b794fae03234d8b7c3
+Description: Amoled theme for Dnevnik
+Name: AmoledDnevnik
+Author: Platon
+
+Package: com.lain.amoleddnevnik
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Platon
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.lain.amoleddnevnik_1.2.2_iphoneos-arm64.deb
+Size: 10372
+MD5sum: 01942c153395df95295962ab5efe67ff
+SHA1: b2c5085a1dbea062fa9dbcd9e50194e4e64e8942
+SHA256: 279e4e0b30802e0b3245d43520a68cd62b0fbb2916c43767126d47cde02edc11
+SHA512: 96de33bebcbd1cd6a6280937231764f22c03f26fe19f842b49cab8d61d1b61fab4a6c88c72c866deecba452f933282f60673d360d5b0e7d6abeb9018499524a8
+Description: Amoled theme for Dnevnik
+Name: AmoledDnevnik
+Author: Platon
+
+Package: com.lain.amoleddnevnik
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Platon
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.lain.amoleddnevnik_1.2.2_iphoneos-arm64e.deb
+Size: 10434
+MD5sum: d74ec5f0a1ec3539586df4038d5cf89e
+SHA1: 3f867c6f3dea373ea3a10b818cf1986abb347884
+SHA256: 3143ff3cc04247a3cebba5e7c1761462f76e1df4a3baa335e7eb37e57cd57e2f
+SHA512: e9fe3c422e0b592e00aa573930e9c4d443f121e921c9ac36b55a97e9b3247ffd040d8c250c465674a9972ebbd2299b9897d4790dbe07e1091d5a448ef852950a
+Description: Amoled theme for Dnevnik
+Name: AmoledDnevnik
+Author: Platon
+
 Package: wiki.qaq.colorfulwallpaperx.schemes.desserts
 Architecture: iphoneos-arm
 Version: 1.0-1+debug
